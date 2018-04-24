@@ -13,7 +13,7 @@ xpack.monitoring.ui.container.elasticsearch.enabled: true
 ## see https://www.elastic.co/guide/en/x-pack/current/xpack-settings.html
 ##     https://www.elastic.co/guide/en/x-pack/current/installing-xpack.html#xpack-enabling
 #
-xpack.security.enabled: false
+#xpack.security.enabled: false
 #xpack.monitoring.enabled: false
 #xpack.ml.enabled: false
 #xpack.graph.enabled: false
